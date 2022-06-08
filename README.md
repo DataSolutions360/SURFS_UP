@@ -14,15 +14,14 @@ if the SURF AND ICE CREAM SHOP business is sustainable year round.
   
   ![JUNE_TEMPS](https://user-images.githubusercontent.com/8845050/172547766-1dd6f698-5c23-4cfa-b76c-28dd96b17990.PNG)
     
-    Observations:
+Observations:
     
-    - The temperatures were not as hot as expected.  Even though it is in Hawaii and
-    close to the equator, my conjecture is that the Pacific Ocean does in fact
-    cool the land surrounded by and adjacent to it.
+- The temperatures were not as hot as expected.  Even though it is in Hawaii and close to the equator, 
+my conjecture is that the Pacific Ocean does in fact cool the land surrounded by and adjacent to it.
     
-    -  The temperatures of June were relatively close to the temperatures of one
-    another, leading me to believe that the data was quite reliable as a sample
-    for a given month/season.  I then applied the same logic to December in Deliverable 2.   
+- The temperatures of June were relatively close to the temperatures of one another, leading me to 
+believe that the data was quite reliable as a sample for a given month/season.  
+I then applied the same logic to December in Deliverable 2.   
     
 ### Deliverable 2 ###
 
