@@ -44,6 +44,6 @@ if the SURF AND ICE CREAM SHOP business is sustainable year round.
   respect to the precipitation.  
   
   Like with any seasonal business, it is expected to slow down during less warm times. 
-  This can be forecasted accurately, to "weather the storm" of fiscally challenging times.
+  This can be forecasted accurately, to "Weather the Storm" of fiscally challenging times.
 
 
